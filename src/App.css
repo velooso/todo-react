@@ -1,0 +1,12 @@
+body{
+  background-color: gainsboro;
+  margin-top: 1rem;
+}
+.formContainer{
+  padding: "1em";
+  display: flex;
+  justify-content: center;
+}
+.container{
+  margin-top: "1em";
+}
