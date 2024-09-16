@@ -3,6 +3,6 @@
 <p>Se você quiser fazer suas próprias mudanças, é só clonar e fazê-las! Uma dica seria a utilização do localstorage para guardar suas tarefas mesmo que o link seja fechado, elas ficarão salvass.</p>
 
 <p>
-  <img src= "src/assets/toReadme/representation.png" href= "Isso">
+  <img  widht = "20px" src= "src/assets/toReadme/representation.png" href= "Isso">
 </p>
 
