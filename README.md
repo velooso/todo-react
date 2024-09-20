@@ -3,6 +3,6 @@
 <p>Se você quiser fazer suas próprias mudanças, é só clonar e fazê-las! Uma dica seria a utilização do localstorage para guardar suas tarefas mesmo que o link seja fechado, elas ficarão salvass.</p>
 
 <p>
-  <img  widht = "20px" height= "20px" src= "src/assets/toReadme/representation.png" href= "Imagem de representação">
+  ![representation](https://github.com/user-attachments/assets/0cca7356-746d-4f80-a1f4-f14582a35643)
 </p>
 
